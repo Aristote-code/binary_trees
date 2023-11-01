@@ -118,4 +118,6 @@ At the end of this project, We were able to undesrtand these questions:
 
 SORRY, DESPITE THE PROJECT IS FUNCTIONAL FOR EDUCATIONAL PURPOSES FOR YOU TO LEARN I AM NOT LEAVING IT AVAILABLE FOR TEST
 
-
+### Authors 
+Gahima Aristote
+Davy Nkurunziza
